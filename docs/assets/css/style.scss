@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 a {
-   color: #267CB9;
+   color: {{ site.primaryColor }};
 }

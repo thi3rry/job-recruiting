@@ -16,16 +16,7 @@ Instructions :
 
 ## Exercice 2 
 
-- [ ] Créer une branche orpheline pour le nouvel exercice
-
-À Partir du code HTML disponible sur [ce pen](https://codepen.io/thi3rry/pen/rNYVJpB) : 
-- [ ] Styliser les éléments de la balise dont le sélecteur CSS est le suivant [role=modal]
-  - [ ] Les conditions de rendu graphique sont les suivante : 
-  - [ ] La modale s’affiche par dessus le contenu de la page
-  - [ ] Le contenu extérieur reste visible mais moins prononcé que celui de la modale
-  - [ ] Positionner le bouton permettant de fermer la modale, en haut à droite de la modale
-  - [ ] Les boutons de submit de la modale devra être centré en bas de celle-ci.
-
+[./exercice-2.md](./exercice-2)
 
 ## Exercice 3
 

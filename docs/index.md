@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Shoot Shoot - Recrutement - Live Coding
 
-You can use the [editor on GitHub](https://github.com/thi3rry/job-recruiting/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [ ] Intialiser un dépôt GIT
 
-### Markdown
+## Exercice 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+JS
 
-```markdown
-Syntax highlighted code block
+Instructions : 
+ - [ ] Sur une page HTML simple, utilisez javascript pour rediriger le visiteur de la page sur le site internet de l’utilisateur avec l’identifiant 5 Utiliser le service https://jsonplaceholder.typicode.com/
+ - [ ] Faîtes un commit de votre travail
+ - [ ] Dynamiser l’identifiant de l’utilisateur et récupérez celui-ci depuis un paramètre de la page
+ - [ ] Avant de rediriger le visiteur sur le site de l’utilisateur, Demander le consentement au visiteur
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Exercice 2 
 
-1. Numbered
-2. List
+- [ ] Créer une branche orpheline pour le nouvel exercice
 
-**Bold** and _Italic_ and `Code` text
+À Partir du code HTML disponible sur [ce pen](https://codepen.io/thi3rry/pen/rNYVJpB) : 
+- [ ] Styliser les éléments de la balise dont le sélecteur CSS est le suivant [role=modal]
+  - [ ] Les conditions de rendu graphique sont les suivante : 
+  - [ ] La modale s’affiche par dessus le contenu de la page
+  - [ ] Le contenu extérieur reste visible mais moins prononcé que celui de la modale
+  - [ ] Positionner le bouton permettant de fermer la modale, en haut à droite de la modale
+  - [ ] Les boutons de submit de la modale devra être centré en bas de celle-ci.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Exercice 3
 
-### Jekyll Themes
+Maquettage
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thi3rry/job-recruiting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Exercice de maquettage 
+Objectif : voir comment il intégrerait une maquette intégrable et une autre chiante mais que le client demande.

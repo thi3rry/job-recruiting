@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+primaryColor: #267CB9
 title: Recrutement - Live Coding 
 description: Session de live coding pour le recrutement de Shoot Shoot
 logo: assets/logo.svg
